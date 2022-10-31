@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadardal/Projects/Umbraco/MyWebsite/MyWebsite.csproj": {}
+    "/Users/ahmadardal/Projects/MyWebsite2/MyWebsite.csproj": {}
   },
   "projects": {
-    "/Users/ahmadardal/Projects/Umbraco/MyWebsite/MyWebsite.csproj": {
+    "/Users/ahmadardal/Projects/MyWebsite2/MyWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadardal/Projects/Umbraco/MyWebsite/MyWebsite.csproj",
+        "projectUniqueName": "/Users/ahmadardal/Projects/MyWebsite2/MyWebsite.csproj",
         "projectName": "MyWebsite",
-        "projectPath": "/Users/ahmadardal/Projects/Umbraco/MyWebsite/MyWebsite.csproj",
+        "projectPath": "/Users/ahmadardal/Projects/MyWebsite2/MyWebsite.csproj",
         "packagesPath": "/Users/ahmadardal/.nuget/packages/",
-        "outputPath": "/Users/ahmadardal/Projects/Umbraco/MyWebsite/obj/",
+        "outputPath": "/Users/ahmadardal/Projects/MyWebsite2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadardal/.nuget/NuGet/NuGet.Config"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yWWEOpcjuCPXcciWQj/eRnhgU6NjG3059ZCm4dGa43U=",
+  "Hash": "GfoDpHi8+8OUhjcszjZ8SvuPSeZHqzJC270yyITujLk=",
   "Source": "MyWebsite",
   "BasePath": "_content/MyWebsite",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "MyWebsite/wwwroot",
       "Source": "MyWebsite",
-      "ContentRoot": "/Users/ahmadardal/Projects/Umbraco/MyWebsite/wwwroot/",
+      "ContentRoot": "/Users/ahmadardal/Projects/MyWebsite2/wwwroot/",
       "BasePath": "_content/MyWebsite",
       "Pattern": "**"
     }
@@ -43605,10 +43605,10 @@
       "OriginalItemSpec": "/Users/ahmadardal/.nuget/packages/umbraco.cms.staticassets/10.3.1/staticwebassets/umbraco/views/users/views/users/users.html"
     },
     {
-      "Identity": "/Users/ahmadardal/Projects/Umbraco/MyWebsite/wwwroot/favicon.ico",
+      "Identity": "/Users/ahmadardal/Projects/MyWebsite2/wwwroot/favicon.ico",
       "SourceId": "MyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ahmadardal/Projects/Umbraco/MyWebsite/wwwroot/",
+      "ContentRoot": "/Users/ahmadardal/Projects/MyWebsite2/wwwroot/",
       "BasePath": "_content/MyWebsite",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

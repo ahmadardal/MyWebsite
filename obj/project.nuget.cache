@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OvxdfEdPwmMZzGsgxAdNOKvBOvGtwh5nzCWaNZf1bJ2jJFIT7d07EEr5NgQxDSI+pirExgD3QUO+T8t7mW+8/w==",
+  "dgSpecHash": "/TmURghMug0Eihvs0TeKijf3q3qx/M7aAOJD/41CrN1ike/qN7uiG4CPIQOwtQM06BW1klw52rvhyj90z3sJfA==",
   "success": true,
-  "projectFilePath": "/Users/ahmadardal/Projects/Umbraco/MyWebsite/MyWebsite.csproj",
+  "projectFilePath": "/Users/ahmadardal/Projects/MyWebsite2/MyWebsite.csproj",
   "expectedPackageFiles": [
     "/Users/ahmadardal/.nuget/packages/azure.core/1.6.0/azure.core.1.6.0.nupkg.sha512",
     "/Users/ahmadardal/.nuget/packages/azure.identity/1.3.0/azure.identity.1.3.0.nupkg.sha512",
